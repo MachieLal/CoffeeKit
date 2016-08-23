@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "82C7CF0E1D63A31800AE48C8"
+               BlueprintIdentifier = "D26B6E2E188E464000768FBE"
                BuildableName = "CoffeeKit.app"
                BlueprintName = "CoffeeKit"
                ReferencedContainer = "container:CoffeeKit.xcodeproj">
@@ -28,11 +28,21 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D26B6E52188E464000768FBE"
+               BuildableName = "CoffeeKitTests.xctest"
+               BlueprintName = "CoffeeKitTests"
+               ReferencedContainer = "container:CoffeeKit.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "82C7CF0E1D63A31800AE48C8"
+            BlueprintIdentifier = "D26B6E2E188E464000768FBE"
             BuildableName = "CoffeeKit.app"
             BlueprintName = "CoffeeKit"
             ReferencedContainer = "container:CoffeeKit.xcodeproj">
@@ -55,7 +65,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "82C7CF0E1D63A31800AE48C8"
+            BlueprintIdentifier = "D26B6E2E188E464000768FBE"
             BuildableName = "CoffeeKit.app"
             BlueprintName = "CoffeeKit"
             ReferencedContainer = "container:CoffeeKit.xcodeproj">
@@ -74,7 +84,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "82C7CF0E1D63A31800AE48C8"
+            BlueprintIdentifier = "D26B6E2E188E464000768FBE"
             BuildableName = "CoffeeKit.app"
             BlueprintName = "CoffeeKit"
             ReferencedContainer = "container:CoffeeKit.xcodeproj">

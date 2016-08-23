@@ -2,14 +2,16 @@
 //  main.m
 //  CoffeeKit
 //
-//  Created by Swarup_Pattnaik on 17/08/16.
-//  Copyright © 2016 Swarup_Pattnaik. All rights reserved.
+//  Created by Scott McAlister on 1/21/14.
+//  Copyright (c) 2014 4 Arrows Media, LLC. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
+
 #import "AppDelegate.h"
 
-int main(int argc, char * argv[]) {
+int main(int argc, char * argv[])
+{
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
